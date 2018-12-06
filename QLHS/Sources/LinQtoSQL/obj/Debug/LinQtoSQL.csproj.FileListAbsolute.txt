@@ -1,0 +1,42 @@
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\LinQtoSQL\bin\Debug\LinQtoSQL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\LinQtoSQL\bin\Debug\LinQtoSQL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\LinQtoSQL\obj\Debug\LinQtoSQL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\LinQtoSQL\obj\Debug\LinQtoSQL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\LinQtoSQL\bin\Debug\LinQtoSQL.dll.config
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\LinQtoSQL\obj\Debug\LinQtoSQL.csprojResolveAssemblyReference.cache
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\LinQtoSQL\bin\Debug\LinQtoSQL.dll.config
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\LinQtoSQL\bin\Debug\LinQtoSQL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\LinQtoSQL\bin\Debug\LinQtoSQL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\LinQtoSQL\obj\Debug\LinQtoSQL.csprojResolveAssemblyReference.cache
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\LinQtoSQL\obj\Debug\LinQtoSQL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\LinQtoSQL\obj\Debug\LinQtoSQL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\LinQtoSQL\bin\Debug\LinQtoSQL.dll.config
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\LinQtoSQL\bin\Debug\LinQtoSQL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\LinQtoSQL\bin\Debug\LinQtoSQL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\LinQtoSQL\obj\Debug\LinQtoSQL.csprojResolveAssemblyReference.cache
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\LinQtoSQL\obj\Debug\LinQtoSQL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\LinQtoSQL\obj\Debug\LinQtoSQL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\LinQtoSQL\bin\Debug\LinQtoSQL.dll.config
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\LinQtoSQL\bin\Debug\LinQtoSQL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\LinQtoSQL\bin\Debug\LinQtoSQL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\LinQtoSQL\obj\Debug\LinQtoSQL.csprojResolveAssemblyReference.cache
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\LinQtoSQL\obj\Debug\LinQtoSQL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\LinQtoSQL\obj\Debug\LinQtoSQL.pdb
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\LinQtoSQL\bin\Debug\LinQtoSQL.dll.config
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\LinQtoSQL\bin\Debug\LinQtoSQL.dll
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\LinQtoSQL\bin\Debug\LinQtoSQL.pdb
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\LinQtoSQL\obj\Debug\LinQtoSQL.csprojResolveAssemblyReference.cache
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\LinQtoSQL\obj\Debug\LinQtoSQL.dll
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\LinQtoSQL\obj\Debug\LinQtoSQL.pdb
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\LinQtoSQL\bin\Debug\LinQtoSQL.dll.config
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\LinQtoSQL\bin\Debug\LinQtoSQL.dll
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\LinQtoSQL\bin\Debug\LinQtoSQL.pdb
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\LinQtoSQL\obj\Debug\LinQtoSQL.csprojResolveAssemblyReference.cache
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\LinQtoSQL\obj\Debug\LinQtoSQL.dll
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\LinQtoSQL\obj\Debug\LinQtoSQL.pdb
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\LinQtoSQL\obj\Debug\LinQtoSQL.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\LinQtoSQL\obj\Debug\LinQtoSQL.dll
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\LinQtoSQL\obj\Debug\LinQtoSQL.pdb
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\LinQtoSQL\bin\Debug\LinQtoSQL.dll.config
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\LinQtoSQL\bin\Debug\LinQtoSQL.dll
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\LinQtoSQL\bin\Debug\LinQtoSQL.pdb

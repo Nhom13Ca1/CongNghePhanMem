@@ -1,0 +1,35 @@
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\BLL\bin\Debug\BLL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\BLL\bin\Debug\BLL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\BLL\bin\Debug\DAL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\BLL\bin\Debug\DAL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\BLL\obj\Debug\BLL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\BLL\obj\Debug\BLL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\BLL\bin\Debug\BLL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\BLL\bin\Debug\BLL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\BLL\bin\Debug\DAL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\BLL\bin\Debug\DAL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\BLL\obj\Debug\BLL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\BLL\obj\Debug\BLL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\BLL\bin\Debug\BLL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\BLL\bin\Debug\BLL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\BLL\bin\Debug\DAL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\BLL\bin\Debug\DAL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\BLL\obj\Debug\BLL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\BLL\obj\Debug\BLL.pdb
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\BLL\bin\Debug\BLL.dll
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\BLL\bin\Debug\BLL.pdb
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\BLL\bin\Debug\DAL.dll
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\BLL\bin\Debug\DAL.pdb
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\BLL\obj\Debug\BLL.dll
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\BLL\obj\Debug\BLL.pdb
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\BLL\bin\Debug\BLL.dll
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\BLL\bin\Debug\BLL.pdb
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\BLL\bin\Debug\DAL.dll
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\BLL\bin\Debug\DAL.pdb
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\BLL\obj\Debug\BLL.dll
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\BLL\obj\Debug\BLL.pdb

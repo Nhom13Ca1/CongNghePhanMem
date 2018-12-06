@@ -1,0 +1,257 @@
+D:\School\4th\Window\Do An Winforms\ApplicationWinform\ApplicationWinform\bin\Debug\ApplicationWinform.exe
+D:\School\4th\Window\Do An Winforms\ApplicationWinform\ApplicationWinform\bin\Debug\ApplicationWinform.pdb
+D:\School\4th\Window\Do An Winforms\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.csprojResolveAssemblyReference.cache
+D:\School\4th\Window\Do An Winforms\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.Properties.Resources.resources
+D:\School\4th\Window\Do An Winforms\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.csproj.GenerateResource.Cache
+D:\School\4th\Window\Do An Winforms\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.exe.licenses
+D:\School\4th\Window\Do An Winforms\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.exe
+D:\School\4th\Window\Do An Winforms\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.pdb
+D:\School\4th\Window\Do An Winforms\ApplicationWinform\ApplicationWinform\bin\Debug\ApplicationWinform.exe.config
+D:\School\4th\Window\Do An Winforms\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLGiaoVien.resources
+D:\School\4th\Window\Do An Winforms\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLHocVien.resources
+D:\School\4th\Window\Do An Winforms\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLKetQua.resources
+D:\School\GitHub\DoAnWinform\ApplicationWinform\ApplicationWinform\bin\Debug\ApplicationWinform.exe.config
+D:\School\GitHub\DoAnWinform\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.exe
+D:\School\GitHub\DoAnWinform\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.pdb
+D:\School\GitHub\DoAnWinform\ApplicationWinform\ApplicationWinform\bin\Debug\ApplicationWinform.exe
+D:\School\GitHub\DoAnWinform\ApplicationWinform\ApplicationWinform\bin\Debug\ApplicationWinform.pdb
+D:\School\GitHub\DoAnWinform\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.csprojResolveAssemblyReference.cache
+D:\School\GitHub\DoAnWinform\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLGiaoVien.resources
+D:\School\GitHub\DoAnWinform\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLHocVien.resources
+D:\School\GitHub\DoAnWinform\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.Properties.Resources.resources
+D:\School\GitHub\DoAnWinform\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLKetQua.resources
+D:\School\GitHub\DoAnWinform\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLKhoaHoc.resources
+D:\School\GitHub\DoAnWinform\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLLichHoc.resources
+D:\School\GitHub\DoAnWinform\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLLopHoc.resources
+D:\School\GitHub\DoAnWinform\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.csproj.GenerateResource.Cache
+D:\School\GitHub\DoAnWinform\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.exe.licenses
+D:\School\GitHub\DoAnWinform\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.FrmMain.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\ApplicationWinform\bin\Debug\ApplicationWinform.exe.config
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.exe
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\ApplicationWinform\bin\Debug\ApplicationWinform.exe
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\ApplicationWinform\bin\Debug\ApplicationWinform.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.csprojResolveAssemblyReference.cache
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.FrmMain.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLGiaoVien.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLHocVien.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.Properties.Resources.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLKetQua.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLKhoaHoc.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLLichHoc.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLLopHoc.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.csproj.GenerateResource.Cache
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.exe.licenses
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\ApplicationWinform\bin\Debug\BLL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\ApplicationWinform\bin\Debug\LinQtoSQL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\ApplicationWinform\bin\Debug\BLL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\ApplicationWinform\bin\Debug\LinQtoSQL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\ApplicationWinform\bin\Debug\ApplicationWinform.exe.config
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.exe
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\ApplicationWinform\bin\Debug\ApplicationWinform.exe
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\ApplicationWinform\bin\Debug\ApplicationWinform.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\ApplicationWinform\bin\Debug\BLL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\ApplicationWinform\bin\Debug\LinQtoSQL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\ApplicationWinform\bin\Debug\BLL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\ApplicationWinform\bin\Debug\LinQtoSQL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.csprojResolveAssemblyReference.cache
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.FrmMain.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLGiaoVien.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLHocVien.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.Properties.Resources.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLKetQua.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLKhoaHoc.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLLichHoc.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLLopHoc.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.csproj.GenerateResource.Cache
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.exe.licenses
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.FrmBienLai.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\bin\Debug\ApplicationWinform.exe.config
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.exe
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.csprojResolveAssemblyReference.cache
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.FrmBienLai.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.FrmLogin.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.FrmMain.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLGiaoVien.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLHocVien.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.Properties.Resources.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLKetQua.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLKhoaHoc.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLLichHoc.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLLopHoc.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.csproj.GenerateResource.Cache
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.exe.licenses
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\bin\Debug\ApplicationWinform.exe
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\bin\Debug\ApplicationWinform.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\bin\Debug\BLL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\bin\Debug\LinQtoSQL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\bin\Debug\BLL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\bin\Debug\LinQtoSQL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.FrmDangKy.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.FrmDoiMK.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\bin\Debug\EntityFramework.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\bin\Debug\EntityFramework.xml
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.ReportBL.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\bin\Debug\ApplicationWinform.exe.config
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.exe
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.csprojResolveAssemblyReference.cache
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.FrmBienLai.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.FrmDangKy.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.FrmDoiMK.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.FrmLogin.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.FrmMain.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLGiaoVien.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLHocVien.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.Properties.Resources.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLKetQua.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLKhoaHoc.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLLichHoc.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLLopHoc.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.ReportBL.resources
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.csproj.GenerateResource.Cache
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.exe.licenses
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\bin\Debug\ApplicationWinform.exe
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\bin\Debug\ApplicationWinform.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\bin\Debug\BLL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\bin\Debug\EntityFramework.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\bin\Debug\LinQtoSQL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\bin\Debug\BLL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\bin\Debug\LinQtoSQL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\bin\Debug\EntityFramework.xml
+C:\Users\Khangg\Desktop\DoAnWinform-master_3\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.FrmTraCuu.resources
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\bin\Debug\ApplicationWinform.exe.config
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.exe
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.pdb
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\bin\Debug\ApplicationWinform.exe
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\bin\Debug\ApplicationWinform.pdb
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\bin\Debug\BLL.dll
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\bin\Debug\EntityFramework.dll
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\bin\Debug\LinQtoSQL.dll
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\bin\Debug\BLL.pdb
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\bin\Debug\LinQtoSQL.pdb
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\bin\Debug\EntityFramework.xml
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.csprojResolveAssemblyReference.cache
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.FrmBienLai.resources
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.FrmDangKy.resources
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.FrmDoiMK.resources
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.FrmLogin.resources
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.FrmMain.resources
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.FrmTraCuu.resources
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLGiaoVien.resources
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLHocVien.resources
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.Properties.Resources.resources
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLKetQua.resources
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLKhoaHoc.resources
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLLichHoc.resources
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.QLLopHoc.resources
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.ReportBL.resources
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.csproj.GenerateResource.Cache
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.exe.licenses
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.FrmGioiThieu.resources
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.FrmThongTin.resources
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\obj\Debug\ApplicationWinform.FrmDSHV.resources
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\bin\Debug\DAL.dll
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\ApplicationWinform\bin\Debug\DAL.pdb
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\bin\Debug\ApplicationWinform.exe.config
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.exe
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.pdb
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\bin\Debug\ApplicationWinform.exe
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\bin\Debug\ApplicationWinform.pdb
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\bin\Debug\BLL.dll
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\bin\Debug\EntityFramework.dll
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\bin\Debug\LinQtoSQL.dll
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\bin\Debug\DAL.dll
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\bin\Debug\BLL.pdb
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\bin\Debug\LinQtoSQL.pdb
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\bin\Debug\EntityFramework.xml
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\bin\Debug\DAL.pdb
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.csprojResolveAssemblyReference.cache
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmBienLai.resources
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmDangKy.resources
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmDoiMK.resources
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmDSHV.resources
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmGioiThieu.resources
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmLogin.resources
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmMain.resources
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmThongTin.resources
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmTraCuu.resources
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.QLGiaoVien.resources
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.QLHocVien.resources
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.Properties.Resources.resources
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.QLKetQua.resources
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.QLKhoaHoc.resources
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.QLLichHoc.resources
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.QLLopHoc.resources
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.ReportBL.resources
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.csproj.GenerateResource.Cache
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.exe.licenses
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\bin\Debug\ApplicationWinform.exe.config
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.exe
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.pdb
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.csprojResolveAssemblyReference.cache
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmDangKy.resources
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmDoiMK.resources
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmDSHV.resources
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmGioiThieu.resources
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmLogin.resources
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmMain.resources
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmPhanCong.resources
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmThongTin.resources
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmTraCuu.resources
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.QLGiaoVien.resources
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.QLHocSinh.resources
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.Properties.Resources.resources
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.QLKetQua.resources
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.QLKhoaHoc.resources
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.QLLichHoc.resources
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.QLLopHoc.resources
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.QLThoiKhoaBieu.resources
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.ReportBL.resources
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.csproj.GenerateResource.Cache
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.exe.licenses
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\bin\Debug\ApplicationWinform.exe
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\bin\Debug\ApplicationWinform.pdb
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\bin\Debug\BLL.dll
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\bin\Debug\EntityFramework.dll
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\bin\Debug\LinQtoSQL.dll
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\bin\Debug\DAL.dll
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\bin\Debug\BLL.pdb
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\bin\Debug\LinQtoSQL.pdb
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\bin\Debug\EntityFramework.xml
+D:\Studies\4th\Win Advance\QLHS\Sources\ApplicationWinform\bin\Debug\DAL.pdb
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\bin\Debug\ApplicationWinform.exe.config
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.exe
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.pdb
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\bin\Debug\ApplicationWinform.exe
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\bin\Debug\ApplicationWinform.pdb
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\bin\Debug\BLL.dll
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\bin\Debug\LinQtoSQL.dll
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\bin\Debug\DAL.dll
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\bin\Debug\BLL.pdb
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\bin\Debug\LinQtoSQL.pdb
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\bin\Debug\DAL.pdb
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmDangKy.resources
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmDoiMK.resources
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmDSHV.resources
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmGioiThieu.resources
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmLogin.resources
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmMain.resources
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmPhanCong.resources
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmThongTin.resources
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.FrmTraCuu.resources
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.QLGiaoVien.resources
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.QLHocSinh.resources
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.Properties.Resources.resources
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.QLKetQua.resources
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.QLKhoaHoc.resources
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.QLLichHoc.resources
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.QLLopHoc.resources
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.QLThoiKhoaBieu.resources
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\GitHub\CongNghePhanMem\QLHS\Sources\ApplicationWinform\obj\Debug\ApplicationWinform.exe.licenses

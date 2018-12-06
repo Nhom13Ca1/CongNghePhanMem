@@ -1,0 +1,29 @@
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\DAL\bin\Debug\DAL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\DAL\bin\Debug\DAL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\DAL\obj\Debug\DAL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\DAL\obj\Debug\DAL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master\ApplicationWinform\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\DAL\bin\Debug\DAL.dll.config
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\DAL\bin\Debug\DAL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\DAL\bin\Debug\DAL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\DAL\obj\Debug\DAL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master_1\ApplicationWinform\DAL\obj\Debug\DAL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\DAL\bin\Debug\DAL.dll.config
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\DAL\bin\Debug\DAL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\DAL\bin\Debug\DAL.pdb
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\DAL\obj\Debug\DAL.dll
+C:\Users\Khangg\Desktop\DoAnWinform-master_2\ApplicationWinform\DAL\obj\Debug\DAL.pdb
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\DAL\bin\Debug\DAL.dll.config
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\DAL\bin\Debug\DAL.dll
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\DAL\bin\Debug\DAL.pdb
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\DAL\obj\Debug\DAL.dll
+C:\Users\Khangg\Desktop\TuongKhangNghia_DoAnWindow\ApplicationWinform\DAL\obj\Debug\DAL.pdb
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\DAL\bin\Debug\DAL.dll.config
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\DAL\bin\Debug\DAL.dll
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\DAL\bin\Debug\DAL.pdb
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\DAL\obj\Debug\DAL.dll
+D:\Studies\4th\Win Advance\QuanLyHocVienTrungTamAnhNgu_Nhom5\Sources\DAL\obj\Debug\DAL.pdb
